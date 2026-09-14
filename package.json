@@ -37,7 +37,7 @@
     "dotenv": "^16.0.3",
     "graphql": "^16.6.0",
     "graphql-request": "^5.1.0",
-    "oscar-redis": "^5.11.2",
+    "oracle-redis": "^5.11.2",
     "minimist": "^1.2.8",
     "zod": "^3.21.4"
   },
